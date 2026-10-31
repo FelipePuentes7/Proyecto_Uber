@@ -1,0 +1,8 @@
+{
+  "name": "uber-platform-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
+
